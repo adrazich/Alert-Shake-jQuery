@@ -11,7 +11,7 @@ You can view a demo at [http://www.initanna.com/alert-shake/] (http://www.initan
 Download
 ---
 
-[Download Alert Shake] (https://github.com/adrazich/alert-shake/downloads)
+[Download Alert Shake] (https://github.com/adrazich/alert-shake-jquery/downloads)
 
 Setup
 ---
@@ -49,7 +49,7 @@ License
 
 Copyright (c) 2012 Anna Drazich
 
-Dual licensed under the [MIT] (https://github.com/adrazich/alert-shake/blob/master/MIT-License.txt) and [GPL] (https://github.com/adrazich/alert-shake/blob/master/GPL-License.txt) licenses.
+Dual licensed under the [MIT] (https://github.com/adrazich/alert-shake-jquery/blob/master/MIT-License.txt) and [GPL] (https://github.com/adrazich/alert-shake/blob/master/GPL-License.txt) licenses.
 
 ###More information about these licenses
   - [MIT License Wiki] (http://en.wikipedia.org/wiki/MIT_License) 
