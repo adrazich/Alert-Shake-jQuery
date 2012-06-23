@@ -1,6 +1,6 @@
 /**
 * Alert Shake is a jQuery validation plugin that shakes pieces of a form that did not validate
-* similiar to Apple's MacBook login screen.
+* similar to Apple's MacBook login screen.
 * \version 1.0
 * \author Anna Drazich
 * \copyright (c) 2012 Anna Drazich
