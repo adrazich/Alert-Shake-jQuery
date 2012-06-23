@@ -27,7 +27,7 @@ Setup
 	  $('#demo').alertShake('start');
 	});
 	
-	// to make it stop, simply
+	// to manually make it stop before it's finished, simply
 	$('#demo').alertShake('stop');
   });
 </script>
@@ -39,6 +39,27 @@ Setup
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
 <script src="alert-shake/js/jquery.alert-shake.min.js" type="text/javascript"></script>
 ```
+
+Settings
+---
+
+<table>
+  <tr>
+    <th>Parameter</th><th>Type</th><th>Default Value</th><th>Description</th>
+  </tr>
+  <tr>
+	<td>easing</td><td>string</td><td>'linear'</td><td>Easing for animating. If you use something other than 'linear' make sure you include the easing jquery plugin.</td>
+  </tr>
+  <tr>
+	<td>number</td><td>integer</td><td>8</td><td>Number of times you want it to shake.</td>
+  </tr>
+  <tr>
+  	<td>speed</td><td>integer</td><td>10</td><td>Animation duration.</td>
+  </tr>
+  <tr>
+	<td>amount</td><td>integer</td><td>10</td><td>Amount you want it to move in pixels each shake.</td>
+  </tr>
+</table>
 
 Browser Support
 ---
