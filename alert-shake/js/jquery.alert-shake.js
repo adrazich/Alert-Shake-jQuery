@@ -5,10 +5,10 @@
 * \author Anna Drazich
 * \copyright (c) 2012 Anna Drazich
 * Dual licensed under the MIT and GPL licenses.
-* MIT License: https://github.com/adrazich/alert-shake/blob/master/MIT-License.txt
-* GPL License: https://github.com/adrazich/alert-shake/blob/master/GPL-License.txt
+* MIT License: https://github.com/adrazich/alert-shake-jquery/blob/master/MIT-License.txt
+* GPL License: https://github.com/adrazich/alert-shake-jquery/blob/master/GPL-License.txt
 * Website: http://www.initanna.com/alert-shake/
-* Github: https://github.com/adrazich/alert-shake
+* Github: https://github.com/adrazich/alert-shake-jquery
 */
 
 ;(function($, window, document, undefined){
