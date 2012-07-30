@@ -6,7 +6,7 @@ Alert Shake is a jQuery validation plugin that shakes pieces of a form that did 
 Demo
 ---
 
-You can view a demo at [http://www.initanna.com/alert-shake/] (http://www.initanna.com/alert-shake/).
+You can view a demo at [http://www.initanna.com/alert-shake] (http://www.initanna.com/alert-shake).
 
 Download
 ---
